@@ -62,6 +62,10 @@ color: #fff;
 /*text-align:justify;*/
 }
 
+.content table thead tr th, .content table thead  {
+    color: #fff;
+}
+
 strong {
     color: #fff;
 }

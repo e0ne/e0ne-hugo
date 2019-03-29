@@ -3,9 +3,9 @@
 
 name = "e0ne"
 license = "MIT"
-licenselink = "https://github.com/e0ne/hugo-e0ne/blob/master/LICENSE"
+licenselink = "https://github.com/e0ne/e0ne-hugo/blob/master/LICENSE"
 description = "A new dark theme blog for HUGO built with Bulma CSS. Including archives and tags widgets."
-homepage = "https://github.com/e0ne/hugo-e0ne"
+homepage = "https://github.com/e0ne/e0ne-hugo"
 tags = ["simple","blog","theme","pagination","archives","tags","bulma","personal"]
 features = ["pagination","archives","tags"]
 min_version = "0.41"

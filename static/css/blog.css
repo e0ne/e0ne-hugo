@@ -34,6 +34,7 @@ html,body {
 .box {
     background-color: #393939;
     box-shadow: none;
+    color: #fff;
 }
 
 .card {
@@ -59,6 +60,10 @@ color: #fff;
 /*font : 1.1em Arial, sans-serif;*/
 /*line-height: 1.5em;*/
 /*text-align:justify;*/
+}
+
+.content table thead tr th, .content table thead  {
+    color: #fff;
 }
 
 strong {
@@ -98,3 +103,7 @@ color : #d0eb55;
     width: 80px;
 }
 
+.hero.is-medium .hero-body {
+    padding-top: 25px;
+    padding-bottom: 10px;
+}
